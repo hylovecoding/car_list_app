@@ -54,4 +54,3 @@ CarTable.propTypes = {
 }
 
 export default CarTable
-//asdda
