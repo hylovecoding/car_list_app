@@ -14,7 +14,6 @@ const initialState = {
     cars: [],
     sortKey: SORT_MANUFACTURER,
     sortOrder:  SORT_ASC,
-    isModalOpened: false
 };
 
 
